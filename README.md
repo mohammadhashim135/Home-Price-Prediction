@@ -28,8 +28,12 @@ House Price Prediction is a machine learning project that predicts house prices 
    ```sh
    git clone https://github.com/mohammadhashim135/home-price-prediction.git
    cd home-price-prediction
-2.pip install -r requirements.txt
-3.python Home_Price_Prediction.py
+2. **Install required libraries:**
+   ```sh
+   pip install -r requirements.txt
+3. **Run the Script:**
+   ```sh
+    python Home_Price_Prediction.py
 
 ## Credits
 
