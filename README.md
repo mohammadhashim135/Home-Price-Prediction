@@ -4,7 +4,7 @@ House Price Prediction is a machine learning project that predicts house prices 
 
 ![dataset](dataset.png)
 ![categorical_value](categorical_value.png)
-![categorical_feature](categorical_feature.png)
+![categorical_feature](https://github.com/mohammadhashim135/Home-Price-Prediction/blob/84d433d36fd3d32018072f9b482d3cb4eccb7162/categorical%20_feature.png)
 ![data_clean](data_clean.png)
 
 ## Features
